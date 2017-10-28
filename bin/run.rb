@@ -3,4 +3,3 @@ Sinatra
 Octokit
 Pry
 AwesomePrint
-rspec 
